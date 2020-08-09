@@ -44,7 +44,7 @@
 
 ---
 
-<img align="left" alt="ManashJBofficial's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ManashJBofficial&show_icons=true&hide_border=true" />
+<img align="left" alt="ManashJBofficial's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ManashJBofficial&show_icons=true&hide_border=true&theme=cobalt" />
 
 [linkedin]: https://www.linkedin.com/in/manashjb
 [gmail]: mailto:manashjbwork@gmail.com
