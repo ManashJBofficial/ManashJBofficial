@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React & MongoDB 😛
 - 👯 I’m looking to collaborate with other content creators 😊
 - 🥅 2020 Goals: Build more projects that has real world use cases ✌️
-- ⚡ Fun fact: I love to surf the web and play games 😍
+- ⚡ Fun fact: I love to play pc games and web surfing ! 😍
 
 ### Connect with me:
 
