@@ -3,7 +3,7 @@
 ## I'm a MCA Student and a Developer !
 - 🔭 I’m currently working on a cool Project! ❄️
 - 🌱 I’m currently learning React & MongoDB 😛
-- 👯 I’m looking to collaborate with other content creators 😊
+- 👯 I’m looking to collaborate with other web devs 😊
 - 🥅 2020 Goals: Build more projects that has real world use cases ✌️
 - ⚡ Fun fact: I love to play pc games and web surfing ! 😍
 
