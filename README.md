@@ -42,9 +42,9 @@
 - [Online Crime Management System with html, css, js, php and mysql](https://github.com/ManashJBofficial/Online-Crime-Management-System)
 <!-- RECENT PROJECTS:END -->
 
----
 
-<img align="left" alt="ManashJBofficial's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ManashJBofficial&show_icons=true&hide_border=true&theme=cobalt" />
+
+<img align="left" alt="ManashJBofficial's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ManashJBofficial&show_icons=true&hide_border=true&theme=cobalt&include_all_commits&count_private" />
 
 [linkedin]: https://www.linkedin.com/in/manashjb
 [gmail]: mailto:manashjbwork@gmail.com
