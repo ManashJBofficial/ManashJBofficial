@@ -38,7 +38,7 @@
 
 ### 📕 Latest Works
 <!-- RECENT PROJECTS:START -->
-- [Covid-19 Tracker Website with API and Chart.js](https://covid19trackermj.herokuapp.com/index)
+- [Covid-19 Tracker Website with API and Chart.js](https://covid19trackermj.herokuapp.com)
 - [Online Crime Management System with html, css, js, php and mysql](https://github.com/ManashJBofficial/Online-Crime-Management-System-2.0)
 <!-- RECENT PROJECTS:END -->
 
