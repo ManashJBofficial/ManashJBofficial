@@ -39,13 +39,11 @@
 ### 📕 Latest Works
 <!-- RECENT PROJECTS:START -->
 - [My Portfolio Website Using ReactJs](https://devmj.netlify.app/)
+- [Real Estate Website](https://github.com/ManashJBofficial/realestate)
 - [Covid-19 Tracker Website with API and Chart.js](https://covid19trackermj.herokuapp.com)
 - [Online Crime Management System with html, css, js, php and mysql](https://github.com/ManashJBofficial/Online-Crime-Management-System-2.0)
 <!-- RECENT PROJECTS:END -->
 
-
-
-<img align="left" alt="ManashJBofficial's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ManashJBofficial&show_icons=true&hide_border=true&theme=cobalt&include_all_commits&count_private" />
 
 [linkedin]: https://www.linkedin.com/in/manashjb
 [gmail]: mailto:manashjbwork@gmail.com
