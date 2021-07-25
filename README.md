@@ -1,6 +1,6 @@
 ### Hi there, I'm Manash Jyoti Baruah 👋
 
-## I'm a MCA Student and a Developer !
+## I'm a MCA Graduate and a Developer !
 - 🔭 I’m currently working on a cool Project! ❄️
 - 🌱 I’m currently learning React & MongoDB 😛
 - 👯 I’m looking to collaborate with other web devs 😊
