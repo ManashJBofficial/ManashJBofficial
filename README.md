@@ -1,9 +1,8 @@
 ### Hi there, I'm Manash Jyoti Baruah 👋
 
 ## I'm a MCA Graduate and a Developer !
-- 🌱 I’m currently learning React & MongoDB
-- 👯 I’m looking to collaborate with other web devs
-- 🥅 2021 Goals: Build more projects that has real world use cases 
+- 🌱 I’m currently learning AWS Services
+- 🥅 2022 Goals: Build more projects that has real world use cases 
 - ⚡ Fun fact: I love to play video games and web surfing !
 
 ### Connect with me:
