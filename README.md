@@ -1,9 +1,9 @@
-### Hi there, I'm Manash Jyoti Baruah 👋
+### Hi there, Manash here 👋
 
-## I'm a MCA Graduate and a Developer !
+## I'm a Software Developer and an MCA grad !
 - 🌱 I’m currently learning AWS Services
 - 🥅 2022 Goals: Build more projects that has real world use cases 
-- ⚡ Fun fact: I love to play video games and web surfing !
+- ⚡ Fun fact: I love to play PC games and web surfing !
 
 ### Connect with me:
 
