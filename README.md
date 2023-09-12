@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer and an MCA grad !
 - 🌱 I’m currently learning AWS Services
-- 🥅 2022 Goals: Build more projects that has real world use cases 
+- 🥅 2023 Goals: Build more projects that has real world use cases 
 - ⚡ Fun fact: I love to play PC games and web surfing !
 
 ### Connect with me:
