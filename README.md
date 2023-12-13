@@ -2,7 +2,8 @@
 # 𝗛𝗶 👋! 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗠𝗮𝗻𝗮𝘀𝗵 𝗝𝘆𝗼𝘁𝗶 𝗕𝗮𝗿𝘂𝗮𝗵 𝗮𝗻𝗱 𝗜'𝗺 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
 
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=manash.dev&url=https%3A%2F%2Fmanash.dev)](https://manash.dev)
-
+[![Gmail Badge](https://img.shields.io/badge/-manashjbwork@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manashjbwork@gmail.com "Connect via Email")
+[![LinkedIn Badge](https://img.shields.io/badge/-manashjb-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manashjb/ "Connect on LinkedIn")
 
 
 ###
@@ -43,12 +44,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
