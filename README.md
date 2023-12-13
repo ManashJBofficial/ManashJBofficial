@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Manash Jyoti Baruah and I'm a Software Engineer from India </h2>
+
+# 𝗛𝗶 👋! 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗠𝗮𝗻𝗮𝘀𝗵 𝗝𝘆𝗼𝘁𝗶 𝗕𝗮𝗿𝘂𝗮𝗵 𝗮𝗻𝗱 𝗜'𝗺 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
+
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=manash.dev&url=https%3A%2F%2Fmanash.dev)](https://manash.dev)
+
+
 
 ###
 
@@ -12,6 +17,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 
 ###
+# 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -27,6 +33,7 @@
 
 
 ###
+# 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲
 
 <div align="left">
   <a href="mailto:manashjbwork@gmail.com" target="_blank">
